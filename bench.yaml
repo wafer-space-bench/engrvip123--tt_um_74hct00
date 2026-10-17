@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/engrvip123/tt_um_74hct00
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_74hct00
+  project: 74HCT00 Quad 2-Input NAND (3.3 V)
+  size: 1x2
+  kind: analog
+  commit: ebc3b797b941c6903c85f1d6e35cdd3be9be1019
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_74hct00
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_74hct00
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:33:32Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_74hct00
+- upstream/main
